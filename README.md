@@ -1,3 +1,6 @@
+# Deprecated project
+> **Note**: This project is no longer actively maintained
+
 | <img alt="RxReduce Logo" src="https://raw.githubusercontent.com/RxSwiftCommunity/RxReduce/develop/Resources/RxReduce_Logo.png" width="250"/> | <ul align="left"><li><a href="#about">About</a><li><a href="#architecture-concerns">Architecture concerns</a><li><a href="#rxreduce">RxReduce</a><li><a href="#installation">Installation</a><li><a href="#the-key-principles">The key principles</a><li><a href="#how-to-use-rxreduce">How to use RxReduce</a><li><a href="#tools-and-dependencies">Tools and dependencies</a></ul> |
 | -------------- | -------------- |
 | Travis CI | [![Build Status](https://travis-ci.org/RxSwiftCommunity/RxReduce.svg?branch=develop)](https://travis-ci.org/RxSwiftCommunity/RxReduce) |
